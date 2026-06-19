@@ -46,7 +46,7 @@ public class Security {
         this.portfolio = portfolio;
     }
 
-    public Long getSecurityId() {
+    public long getSecurityId() {
         return securityId;
     }
 

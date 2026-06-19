@@ -37,7 +37,7 @@ public Client(String firstName, String lastName,
     this.advisor = advisor;
 }
 
-public Long getClientId() {
+public long getClientId() {
     return clientId;
 }
 
